@@ -1,0 +1,17 @@
+commit 5c72e92c75c6e71067370a2809f6ba6608fa1f27
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Sun Sep 18 23:03:06 2022 -0500
+
+    Last_Functions_and_adding_widgets
+
+commit d3e1cbc6b8e9555f8c79fc6b7d28d7a6e9a9e4da
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Sun Sep 18 21:50:29 2022 -0500
+
+    Adding_.gitignore_file
+
+commit 803f847080b619136b81a15ed21ece943957e30e
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Sun Sep 18 21:40:23 2022 -0500
+
+    First_Step_Trajectories_Functions
