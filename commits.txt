@@ -1,3 +1,15 @@
+commit dbc8fe92a1037f126d309a48096372d01aea3493
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Tue Sep 20 14:13:51 2022 -0500
+
+    Divided_code_in_sections,_added_metric_functions_added_pane_functions_and_main_code_execution
+
+commit ac18d6e944712403dfca299eb28313239552616d
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Sun Sep 18 23:04:55 2022 -0500
+
+    Add_commit_file
+
 commit 5c72e92c75c6e71067370a2809f6ba6608fa1f27
 Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
 Date:   Sun Sep 18 23:03:06 2022 -0500
