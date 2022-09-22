@@ -1,3 +1,15 @@
+commit 187d8008a4977b3ad6ee8b4366b4bf3a4e28a725
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Thu Sep 22 17:17:58 2022 -0500
+
+    Removed_calc_angle_and_calc_step_length_functions,_optimized_MSD_calculation,_diferentiate_plot_displays_and_included_the_panel_call_inside_a_main_funciton
+
+commit bc4f5a7a1e5dd7928cec72b507b287faf750c8fe
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Tue Sep 20 14:15:06 2022 -0500
+
+    commits_log_file_update
+
 commit dbc8fe92a1037f126d309a48096372d01aea3493
 Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
 Date:   Tue Sep 20 14:13:51 2022 -0500
