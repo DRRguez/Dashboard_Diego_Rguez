@@ -1,3 +1,15 @@
+commit 0ac83c3a7f6f0f5d67634c1e90900d4463806f3c
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Thu Sep 22 19:39:29 2022 -0500
+
+    Metric_Functions_Redistribution_and_Layout_Modification
+
+commit b01233fb80396de79462cc3da2c5dbd1808208f1
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Thu Sep 22 17:20:07 2022 -0500
+
+    update_log_file
+
 commit 187d8008a4977b3ad6ee8b4366b4bf3a4e28a725
 Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
 Date:   Thu Sep 22 17:17:58 2022 -0500
