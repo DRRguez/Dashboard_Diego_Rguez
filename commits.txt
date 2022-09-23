@@ -1,3 +1,15 @@
+commit a732dd859d7f1738516cb5251e6fc5f7e07b9a9e
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Fri Sep 23 16:07:31 2022 -0500
+
+    Angle_distribution_calculation_implementation_in_metrics_display
+
+commit 2297972f1330f62fb2727e23a1a405dbcda256c6
+Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
+Date:   Thu Sep 22 19:40:20 2022 -0500
+
+    commits_log_file_update
+
 commit 0ac83c3a7f6f0f5d67634c1e90900d4463806f3c
 Author: Diego <diego.rodriguez1787@alumnos.udg.mx>
 Date:   Thu Sep 22 19:39:29 2022 -0500
